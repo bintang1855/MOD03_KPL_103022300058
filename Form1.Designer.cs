@@ -50,6 +50,7 @@
             this.labelOutput.Name = "labelOutput";
             this.labelOutput.Size = new System.Drawing.Size(156, 32);
             this.labelOutput.TabIndex = 0;
+
             // 
             // button1
             // 
