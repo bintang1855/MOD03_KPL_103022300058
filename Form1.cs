@@ -16,5 +16,11 @@ namespace MOD03_KPL_103022300058
         {
             InitializeComponent();
         }
+
+        private void buttonSamaDengan_Click(object sender, EventArgs e)
+        {
+            labelOutput.Text = "Hasil = " + ;
+        }
+
     }
 }
