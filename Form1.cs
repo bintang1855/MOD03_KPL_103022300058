@@ -26,6 +26,7 @@ namespace MOD03_KPL_103022300058
             angka = angka + temp;
             labelOutput.Text = angka.ToString();
             temp = 0;
+
         }
 
         private void button1_Click(object sender, EventArgs e)
